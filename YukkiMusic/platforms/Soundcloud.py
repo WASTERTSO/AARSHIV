@@ -8,7 +8,6 @@
 # All rights reserved.
 #
 
-import re
 from typing import Union
 from os import path
 from yt_dlp import YoutubeDL

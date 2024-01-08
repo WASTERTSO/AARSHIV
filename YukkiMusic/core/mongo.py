@@ -42,4 +42,4 @@ def initialize_mongo_client():
 
     return _mongo_async_, _mongo_sync_, mongodb, pymongodb
 
-_mongo_async_, _mongo_sync_, mongodb, pymongodb = initialize_mongo_client()
+mongodb, pymongodb = initialize_mongo_client()
