@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "16201672",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "55f85061314c2c0f6edeec9751b90913",
         "required": true
       },
       "BOT_TOKEN": {
@@ -36,11 +36,11 @@
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
         "value": "",
-        "required": true
+        "required": false
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "5686536025",
         "required": true
       },
       "STRING_SESSION": {
@@ -60,12 +60,12 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "",
+        "value": "-1001826898444",
         "required": true
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/Pranav-Saraswat/Testing-Alpha",
+        "value": "https://github.com/wastertso/Aarshiv",
         "required": true
       },
       "UPSTREAM_BRANCH": {
